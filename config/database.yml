@@ -1,0 +1,15 @@
+development:
+  database: proyecto_development
+  adapter: postgresql
+  encoding: utf8
+  pool: 5
+  username: proyecto
+  password: proyecto
+
+test:
+  database: proyecto_test
+  adapter: postgresql
+  encoding: utf8
+  pool: 5
+  username: proyecto
+  password: proyecto
